@@ -1,0 +1,3 @@
+Overall, good job.  It is not clear what selecting a file does from your documentation.  Does the user select the file and then delete the selected file?  If so, that should have been spelled out in the use case diagram. (-2)
+
+Grade: 98
